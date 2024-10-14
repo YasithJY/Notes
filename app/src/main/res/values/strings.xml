@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="welcome_to_notes">Welcome to Notes</string>
+    <string name="welcome_message">Capture your ideas, thoughts, and tasks all in one place.</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_logo">App Logo</string>
+
+</resources>
